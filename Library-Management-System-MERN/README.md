@@ -1,9 +1,9 @@
-## Library Management System 📚
+## Library Management System 
 
 A web app for managing all the activities of a library like managing members and book transactions, built on MERN Stack
 
 
-## Features Of LCMS 🚀
+## Features Of LCMS 
 
 - Admin Login and Student Login
 - Admin and Student Dashboard
@@ -14,7 +14,7 @@ A web app for managing all the activities of a library like managing members and
 - Showing the Achievements, Event Gallery
 
 
-## Technologies 🛠
+## Technologies 
 
 - ReactJS[Hooks]
 - NodeJs
